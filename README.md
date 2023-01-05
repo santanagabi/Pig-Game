@@ -1,4 +1,4 @@
-# Pig Game 
+# Pig Game 🐷🐽
 
 ## Possible user actions:
 - User rolls dice -> generate random dice roll -> display dice roll but if it a 1 switch the player
